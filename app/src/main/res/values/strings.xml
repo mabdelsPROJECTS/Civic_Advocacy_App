@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CivAdvoc</string>
+    <string name="APIINFO"><u>Google Civic\n Information API</u></string>
+</resources>
