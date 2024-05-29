@@ -35,6 +35,10 @@ If no image is found then a stock image is displayed.
 # No Internet Connection
 ![Screenshot_20240529_174550](https://github.com/mabdelsPROJECTS/Civic_Advocacy_App/assets/137844707/b8f6925c-218e-4ca6-ade8-78dd203c4a74)
 
+# Copyright Page
+![Screenshot_20240529_175519](https://github.com/mabdelsPROJECTS/Civic_Advocacy_App/assets/137844707/adb6d8b9-3043-41d9-a7bb-03475e368d1d)
+
+
 
 
 
