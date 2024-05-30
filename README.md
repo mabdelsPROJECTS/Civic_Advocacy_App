@@ -2,7 +2,7 @@ Application that retrieve information about political officials. Applications us
 If no image is found then a stock image is displayed. 
 
 # Application Start Asking for Location Permission
-![Screenshot_20240529_173443](https://github.com/mabdelsPROJECTS/Civic_Advocacy_App/assets/137844707/7b8907c8-b22d-4408-9934-7582d2b875cf)
+<img src="Images/Civic_1.png" width="300">
 
 # Permission Given 
 ![Screenshot_20240529_173519](https://github.com/mabdelsPROJECTS/Civic_Advocacy_App/assets/137844707/17c0d371-dd09-4a0c-91c1-6ac39444d344)
